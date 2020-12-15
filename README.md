@@ -6,7 +6,7 @@
 
 ## Get Started
 
-Domain of choice: Games
+Domain of choice: Video games
 
 Word similarity is calculated using word2vec 
 
@@ -30,7 +30,7 @@ in this cluster.
 is, it tells us if the game is a single player game, two player game or a team
 game. Words like 'player', 'team', 'two', 'one' are present in this cluster.
 
-The purple cluster contains terms that are used to explain the game objective. 
+- The purple cluster contains terms that are used to explain the game objective. 
 Terms like 'map', 'mission', 'battle', 'system', 'level' are present in this
 cluster.
 
