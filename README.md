@@ -16,7 +16,6 @@ Document similarity is calculated using doc2vec
 
 ### Observations about clusters formed
 
-#### Taking vector size = 50
 ![word2vec_50](https://github.com/sagarjinde/Understanding_Domain/blob/main/figs/word2vec50.png)
 
 - The light blue cluster contains terms that are used as a mode of dealing
@@ -35,7 +34,6 @@ The purple cluster contains terms that are used to explain the game objective.
 Terms like 'map', 'mission', 'battle', 'system', 'level' are present in this
 cluster.
 
-#### Taking vector size = 100
 ![word2vec_100](https://github.com/sagarjinde/Understanding_Domain/blob/main/figs/word2vec100.png)
 
 ### Observations about words
