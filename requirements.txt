@@ -1,0 +1,6 @@
+scrapy
+spacy
+gensim
+scikit-learn
+matplotlib
+nltk
