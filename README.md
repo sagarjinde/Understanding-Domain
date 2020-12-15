@@ -17,7 +17,7 @@ Document similarity is calculated using doc2vec
 ### Observations about clusters formed
 
 #### Taking vector size = 50
-![word2vec_50]()
+![word2vec_50](https://github.com/sagarjinde/Understanding_Domain/blob/main/figs/word2vec50.png)
 
 - The light blue cluster contains terms that are used as a mode of dealing
 damage. Terms like 'ability', 'weapon', 'combat', 'attack' are present in this
@@ -36,7 +36,7 @@ Terms like 'map', 'mission', 'battle', 'system', 'level' are present in this
 cluster.
 
 #### Taking vector size = 100
-![word2vec_100]()
+![word2vec_100](https://github.com/sagarjinde/Understanding_Domain/blob/main/figs/word2vec100.png)
 
 ### Observations about words
 Following are few words that appear close to each other
@@ -51,7 +51,7 @@ Following are few words that appear close to each other
 
 ### Observations on documents
 
-![doc2vec]()
+![doc2vec](https://github.com/sagarjinde/Understanding_Domain/blob/main/figs/doc2vec.png)
 
 **Games in light green clusters**
 - FIFA 18 (Football)
